@@ -1,0 +1,61 @@
+body {
+    margin: 25px 25px;
+    background-color: lightsteelblue;
+    font-family: "Kalam";
+    letter-spacing: 3px;
+    font-size: 1.5rem;
+    color: black;
+    text-shadow: 1px 1px 2px tomato;
+}
+h1 {
+    text-align: center;
+    font-family: "Kalam";
+    font-size: 2rem;
+}
+#pic1, #pic2, #pic3, #pic4, #pic5, #pic6 {
+    width: 30%;
+    height: auto;
+    margin: 15px 35%;
+    border: 2px tomato solid;
+    outline: 1px black solid;
+}
+#sine, #cosine, #tangent, #cosecant, #secant, #cotangent {
+    width: 6%;
+    height: 50px;
+    font-family: "Kalam";
+    font-size: 1.5rem;
+    color: black;
+    border: 2px tomato solid;
+    outline: 1px black solid;
+    text-align: center;
+}
+#p1 {
+    margin-left: 60px;
+}
+#myBtn {
+    width: 10%;
+    height: auto;
+    font-size: 1.5rem;
+    margin: 15px 45%;
+    padding: 15px;
+    border: 2px tomato solid;
+    outline: 1px black solid;
+    text-align: center;
+    font-family: "Kalam";
+}
+#demo {
+    width: 30%;
+    height: 180px;
+    font-size: 1.5rem;
+    margin: 15px 35%;
+    padding: 15px;
+    border: 2px tomato solid;
+    outline: 1px black solid;
+    text-align: center;
+    background-color: white;
+    font-family: "Kalam";
+}
+footer {
+    text-align: center;
+    font-size: 1rem;
+}
